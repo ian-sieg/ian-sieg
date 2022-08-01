@@ -1,20 +1,9 @@
-### Hi there 👋
+### Hi, I'm ian sieg
 
-<!--
-**ian-sieg/ian-sieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- 👀 I'm interested in climbing and backpacking, chess, and learning more about web development and cybersecurity
+- 🌱 I’m currently learning MongoDB and ReactJS
+- 📫 How to reach me: ianmsieg@gmail.com
+- ⚡ Fun fact: I met the guy that says 'wait' for crosswalk buttons
 
 <a href="https://github.com/ian-sieg" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian-sieg&langs_count=10&title_color=ADEFD1FF&text_color=f5f5f5&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/ian-sieg"><img src="https://github-readme-stats.vercel.app/api?username=ian-sieg&show_icons=true&hide=stars,&count_private=true&title_color=ADEFD1FF&text_color=f5f5f5&icon_color=9CC3D5FF&bg_color=171717&hide_border=true&show_icons=true" alt="Ian's GitHub stats" /></a>
