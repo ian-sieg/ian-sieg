@@ -1,7 +1,7 @@
 ### Hi, I'm ian sieg
 
 - 😄 Pronouns: he/him
-- 👀 I'm interested in climbing and backpacking, chess, and learning more about web development and cybersecurity
+- 👀 I'm interested in building great websites and learning more about cybersecurity
 - 🌱 I’m currently learning MongoDB and ReactJS
 - 📫 How to reach me: ianmsieg@gmail.com
 - ⚡ Fun fact: I met the guy that says 'wait' for crosswalk buttons
